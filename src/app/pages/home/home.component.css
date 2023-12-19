@@ -1,0 +1,11 @@
+body {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://media.istockphoto.com/vectors/illustration-of-elephant-pageant-with-people-playing-percussion-a-vector-id1319773282?k=6&m=1319773282&s=612x612&w=0&h=3f6y4nMBilAaAbSN7PWFV9-dcbBST--jE44g8MXkLKY=);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
